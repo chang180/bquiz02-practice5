@@ -1,1 +1,1 @@
-<h1 class="cent">即將推出</h1>
+<h1 class="ct">即將推出</h1>
